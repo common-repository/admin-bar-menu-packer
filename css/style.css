@@ -1,0 +1,5 @@
+#wpadminbar #wp-admin-bar-abmp-root .ab-icon:before {
+	content: "\f333";
+	top: 2px;
+}
+
